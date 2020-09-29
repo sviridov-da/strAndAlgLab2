@@ -1,0 +1,12 @@
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\obj\Debug\Lab2.PassportDataForm.resources
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\obj\Debug\Lab2.PersonDataForm.resources
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\university\labs\str and alg\Lab2sem2\Lab2\Lab2\obj\Debug\Lab2.pdb
